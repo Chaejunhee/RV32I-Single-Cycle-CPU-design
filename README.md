@@ -30,6 +30,7 @@ RISC-V 명령어 집합 아키텍처(ISA)를 준수하여 설계되었으며, �
 ### 1. 전체 블록 다이어그램 (Block Diagram)
 전체 시스템은 `RV32I_TOP` 모듈을 최상위로 하여 **Datapath**와 **Control Unit**으로 구성됩니다.
 
+<img width="568" height="459" alt="image" src="https://github.com/user-attachments/assets/76a89adb-ce38-490e-b621-d233fa357613" />
 
 
 ### 2. 주요 모듈 설명 (Module Description)
